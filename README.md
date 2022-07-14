@@ -1,5 +1,5 @@
 ### Note
-- This the server code alone(coundn't add frontend code here as well)
+- This the server code alone(coundn't add frontend code here as well i.e server folder. I provide the frontend code as well)
 - Please start the server so the frontend can call the api successfully
 
 ## Technologles Used
