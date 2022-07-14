@@ -1,5 +1,5 @@
 ### Note
-- The backend code is in the same folder named(server)
+- This the server code alone(coundn't add frontend code here as well)
 - Please start the server so the frontend can call the api successfully
 
 ## Technologles Used
